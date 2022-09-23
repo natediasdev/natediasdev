@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/natediasdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natediasdev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natediasdev&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=natediasdev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natediasdev&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
   <img alt="Nate_HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
