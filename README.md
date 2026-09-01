@@ -13,4 +13,8 @@
   <img alt="Nate_Scratch" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white">
 </div>
 
-![Snake animation](https://github.com/natediasdev/natediasdev/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Contribution Snake Animation" src="https://githubusercontent.com">
+</picture>
